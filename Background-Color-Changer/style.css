@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1{
+    margin:20px;
+   margin-top:5%;
+}
+#start,#stop{
+  margin: auto;
+  margin-top: 50px;
+  padding: 9px 25px;
+  color: #ffffff;
+  background-color: #cd9a9a;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 7px;
+  border: none;
+
+}
